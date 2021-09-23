@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: font-family: 'Merriweather', serif;
+  font-style: italic;
+}
+
+.main-header {
+  text-align: center;
+  color: rgb(81, 9, 90);
+  font-family: 'Roboto Slab', serif;
+  font-weight: 900;
+}
+
+.Karis-shoutout {
+    text-align: center;
+    color: rgb(100, 22, 61);
+
+}
+
+.songs {
+    color: rgb(46, 9, 46);
+    font-family: 'Merriweather', serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#first-love {
+    background-color: rgb(209, 182, 245);
+}
+
+#goodbye {
+    background-color: rgb(209, 182, 245);
+}
+
+#once-more {
+    background-color: rgb(209, 182, 245);
+}
