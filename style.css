@@ -1,22 +1,16 @@
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: #f28482;
   text-align: center;
   color: rgb(0, 0, 0);
   font-family: font-family: 'Merriweather', serif;
   font-style: italic;
 }
 
-.main-header {
+.post {
   text-align: center;
-  color: rgb(81, 9, 90);
+  color: rgb(0, 0, 0);
   font-family: 'Roboto Slab', serif;
   font-weight: 900;
-}
-
-.Karis-shoutout {
-    text-align: center;
-    color: rgb(100, 22, 61);
-
 }
 
 .songs {
@@ -25,16 +19,34 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    
 }
 
 #first-love {
-    background-color: rgb(209, 182, 245);
+    background-color: #f5cac3;
+    border-radius: 25px;
+    padding: 10px;
+   
 }
 
 #goodbye {
-    background-color: rgb(209, 182, 245);
+    background-color: #f5cac3;
+    border-radius: 25px;
+    padding: 10px;
 }
 
 #once-more {
-    background-color: rgb(209, 182, 245);
+    background-color: #f5cac3;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
+
+.button {
+    background-color: #84a59d;
+    color: white;
 }
