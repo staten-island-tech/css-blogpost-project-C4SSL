@@ -1,9 +1,10 @@
 body {
-  background-color: #f28482;
+  background-color: #e78fbd;
   text-align: center;
   color: rgb(0, 0, 0);
   font-family: font-family: 'Merriweather', serif;
   font-style: italic;
+  margin-top: 100px;
 }
 
 .post {
@@ -11,6 +12,7 @@ body {
   color: rgb(0, 0, 0);
   font-family: 'Roboto Slab', serif;
   font-weight: 900;
+  margin-bottom: 50px;
 }
 
 .songs {
@@ -22,23 +24,11 @@ body {
     
 }
 
-#first-love {
-    background-color: #f5cac3;
+.tunes {
+    background-color: #d765A1;
     border-radius: 25px;
     padding: 10px;
-   
-}
-
-#goodbye {
-    background-color: #f5cac3;
-    border-radius: 25px;
-    padding: 10px;
-}
-
-#once-more {
-    background-color: #f5cac3;
-    border-radius: 25px;
-    padding: 10px;
+    width: 25vw;
 }
 
 img {
@@ -47,6 +37,6 @@ img {
 }
 
 .button {
-    background-color: #84a59d;
+    background-color: #c14385;
     color: white;
 }
